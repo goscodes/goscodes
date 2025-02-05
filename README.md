@@ -1,6 +1,4 @@
-👋 Hi, I'm Gus 
-💻 Starting my journey as a full stack web developer at Nucba bootcamp. 
-🚀 Learning step by step and ready to build amazing things.
+👋 Hey! I'm Gos, a future Full-Stack Developer studying at Nucba. Passionate about JavaScript, React, and backend tech. Always learning and improving. Let’s connect and grow together! 🚀
 
 <!---
 goscodes/goscodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
